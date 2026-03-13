@@ -1,0 +1,28 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+coverage/
+test-results/
+playwright-report/
+
+# Build artifacts
+*.log
+
+# Crew plugin binaries/cache
+.crew/plugins/
+.crew/
+
+# Local skills
+skills/
+skills/*
